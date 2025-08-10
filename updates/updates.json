@@ -1,0 +1,20 @@
+{
+  "app": "ColorTD",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2025-08-10T09:00:00Z",
+  "channels": ["stable"],
+  "platforms": {
+    "windows_x64": {
+      "type": "msi",
+      "url": "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.0/ColorTD-1.0.0.msi",
+      "sha256": "c11e99569dac4e559e1efdbb5836b413ecf7f3d2db4d3add7164a38f1227d11a"
+    }
+  },
+  "changelog": [
+    { "version": "1.0.0", "date": "2025-08-10", "changes": [
+      "Packaging MSI + per-user install",
+      "Redirection des logs robuste",
+      "Fix chemins des profils"
+    ]}
+  ]
+}
