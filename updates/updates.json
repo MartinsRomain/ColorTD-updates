@@ -7,7 +7,8 @@
     "windows_x64": {
       "type": "msi",
       "url": "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.0/ColorTD-1.0.0.msi",
-      "sha256": "20a443c9386de0ad9fe936e7c3c58fabe5acff58aa7ebced6e3dbdbda4227165"
+      "sha256": "20a443c9386de0ad9fe936e7c3c58fabe5acff58aa7ebced6e3dbdbda4227165",
+      "size": 0
     }
   },
   "changelog": [
