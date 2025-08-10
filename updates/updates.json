@@ -1,20 +1,26 @@
 {
-  "app": "ColorTD",
-  "latestVersion": "1.0.1",
-  "releaseDate": "2025-08-10T12:09:00Z",
-  "channels": ["stable"],
-  "platforms": {
-    "windows_x64": {
-      "type": "msi",
-      "url": "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.0/ColorTD-1.0.0.msi",
-      "sha256": "20a443c9386de0ad9fe936e7c3c58fabe5acff58aa7ebced6e3dbdbda4227165",
-      "size": 0
-    }
-  },
-  "changelog": [
-    { "version": "1.0.1", "date": "2025-08-10", "changes": [
-      "Ex: MANIFEST Implementation-Version",
-      "Ex: Update checker + HostServices"
-    ]}
-  ]
+    "app":  "ColorTD",
+    "latestVersion":  "1.0.6",
+    "releaseDate":  "2025-08-10T12:09:00Z",
+    "channels":  [
+                     "stable"
+                 ],
+    "platforms":  {
+                      "windows_x64":  {
+                                          "type":  "msi",
+                                          "url":  "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.6/ColorTD-1.0.6.msi",
+                                          "sha256":  "2BF7A9925400C460AB6FB7FD99BFF52AB7FBB8995C37358E6040AEC9D633A01B",
+                                          "size":  143219405
+                                      }
+                  },
+    "changelog":  [
+                      {
+                          "version":  "1.0.1",
+                          "date":  "2025-08-10",
+                          "changes":  [
+                                          "Ex: MANIFEST Implementation-Version",
+                                          "Ex: Update checker + HostServices"
+                                      ]
+                      }
+                  ]
 }
