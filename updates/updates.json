@@ -1,6 +1,6 @@
 {
     "app":  "ColorTD",
-    "latestVersion":  "1.0.13",
+    "latestVersion":  "1.0.14",
     "releaseDate":  "2025-08-10T12:09:00Z",
     "channels":  [
                      "stable"
@@ -8,9 +8,9 @@
     "platforms":  {
                       "windows_x64":  {
                                           "type":  "msi",
-                                          "url":  "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.13/ColorTD-1.0.13.msi",
-                                          "sha256":  "6A7DD54EB1990B90B70B3BBC8AABEDDA033967744E9736B107447BF13B328F66",
-                                          "size":  143342900
+                                          "url":  "https://github.com/MartinsRomain/ColorTD-updates/releases/download/v1.0.14/ColorTD-1.0.14.msi",
+                                          "sha256":  "1CFDA45D10C920553FB2C3749072494EF8B9AE45AFC411D064CF4D926BE2DDF9",
+                                          "size":  144262369
                                       }
                   },
     "changelog":  [
